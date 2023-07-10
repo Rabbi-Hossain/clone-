@@ -47,14 +47,51 @@ body {
     margin-top: 30px;
 }
 
+/* MY FAILURES SECTION */
+
+
+
 .failures-container {
     display: flex;
+    width: 70%;
+    margin-left: 500px;
+    margin-top: 200px;
 }
 
 .failures-img {
-    width: 450px;
-    border-radius: 527.929px;
+    width: 700px;
+    height: 700px;
+    border-radius:50%;
     /* background: rgba(241, 91, 34, 0.20); */
-    background-color:;
-    
+
+}
+
+.failure-sectio {
+    width: 600px;
+    height: 500px;
+    margin: 100px;
+}
+
+.failures-title {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.failure-description {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.child {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+} 
+
+.fa-regular{
+    padding: 0 10px;
 }
