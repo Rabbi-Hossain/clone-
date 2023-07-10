@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.head-bg{
+    height: 100vh;
+    background-image: url("./images/banner/banner1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
